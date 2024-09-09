@@ -28,5 +28,9 @@ Sales & Dungeons is a free software for printing handouts, random generators and
 It should look something like this in your Elgato Streamdeck button:  
 ![](https://github.com/Elfenspalter/SalesAndDeck/blob/main/scr2.png)
 
+## ToDo
+* How to config the generator inside the POST-body
+* make this tutorial more beautiful ;-)
+
 ## Support
 If you have questions or need help, contact me (Elfenspalter) on the [S&D Discord](https://sales-and-dungeons.app/)
