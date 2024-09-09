@@ -15,4 +15,18 @@ Sales & Dungeons is a free software for printing handouts, random generators and
 
 ## Config the Streamdeck button
 * Drag the Web Request item from the list to a button
-* Choose a generator or a template you like to bind to this key and press the 
+* Choose a generator or a template inside of S&D you like to bind to this key and press the little (i) in the upper, right corner:  
+![](https://github.com/Elfenspalter/SalesAndDeck/blob/main/scr1.png)
+* Click on "Print Generator with config" dropdown
+* copy the URL. Should look like this: http://127.0.0.1:7123/api/printGenerator
+* Paste this URL in your Web Request button inside your Streamdeck under "URL".
+* Copy the example POST body out of S&A under the URL and paste it into the Web Request button under "Body".
+* Select "application/json" under "Content Type" within the Web Request button and select "POST" as "Method".
+* That's all. You should be able to press the button on your Stream Deck and your printer should print. Have Fun! ^^
+
+## More Screenshots
+It should look something like this in your Elgato Streamdeck button:  
+![](https://github.com/Elfenspalter/SalesAndDeck/blob/main/scr2.png)
+
+## Support
+If you have questions or need help, contact me (Elfenspalter) on the [S&D Discord](https://sales-and-dungeons.app/)
